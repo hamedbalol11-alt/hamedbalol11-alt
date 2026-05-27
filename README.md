@@ -12,4 +12,13 @@
 
 ## 💻 البرمجة والتقنية
 - في رحلة تعلم مستمرة لأساسيات البرمجة لربط الرؤية الفنية الإبداعية بالتنفيذ البرمجي في الصيدلة الرقمية.
+<div dir="rtl">
+  <h2>🎨 معرض الأعمال (Portfolio)</h2>
+</div>
 
+| التصميم | التصميم |
+| :---: | :---: |
+| <img src="poster%201.webp" width="400px"><br>**Poster 1** | <img src="Poster%202.webp" width="400px"><br>**Poster 2** |
+| <img src="poster%203.webp" width="400px"><br>**Poster 3** | <img src="poster%204.webp" width="400px"><br>**Poster 4** |
+| <img src="logo%201.jpg" width="400px"><br>**Logo 1** | <img src="logo%202.webp" width="400px"><br>**Logo 2** |
+| <img src="logo%203.jpeg" width="400px"><br>**Logo 3** | <br>*مساحة لتصميم قادم* 🔜 |
